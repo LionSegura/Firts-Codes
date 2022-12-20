@@ -1,5 +1,7 @@
+#I did it alone, Im proud of myself
+
 menu = """
-Welcome to the currency converter 😉💵 
+Welcome to the currency converter, my first code 😉💵 
 
 1 - Colombian pesos
 2 - Argentinan pesos
