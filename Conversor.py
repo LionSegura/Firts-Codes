@@ -1,4 +1,4 @@
-#I did it alone, Im proud of myself
+#I did it alone, Im proud of myself. Now the best is about to start! I will be so fucking success!
 
 menu = """
 Welcome to the currency converter, my first code 😉💵 
